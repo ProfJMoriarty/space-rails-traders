@@ -44,6 +44,8 @@ gem 'bootsnap', require: false
 # gem "image_processing", "~> 1.2"
 
 gem 'dotenv'
+gem 'heroicons-rails'
+gem 'slim-rails'
 gem 'space-ruby-traders', '~> 0.9', path: '../space-ruby-traders'
 gem 'tailwindcss-rails', '~> 2.4'
 
